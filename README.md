@@ -1,1 +1,1 @@
-# Pyramid-Golang-Suparna
+# Even-Odd-Suparna
