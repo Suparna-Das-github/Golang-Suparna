@@ -3,14 +3,19 @@ import "fmt"
 
 func main()
 {
-fmt.Println("Pyramid making in Golang\n");
-for i := 0; i<= 5; i++ 
-{ 
-for j:=0; j<=4; j++
+var number int;
+fmt.Println("Enter any number:");
+fmt.Scanln(&number);
+
+if number % 2 == 0
 {
-fmt.Print("*");
+fmt.Println("\nThe number entered is even");
 }
-fmt.Println(" ");
+
+else 
+{
+fmt.Println("\nThe number entered is odd");
 }
-fmt.Println();
+
+
 }
