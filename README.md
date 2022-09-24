@@ -1,1 +1,1 @@
-# Even-Odd-Suparna
+# Multiplication table -Suparna
